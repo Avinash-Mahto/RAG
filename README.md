@@ -6,5 +6,5 @@ Many LLM applications require user-specific data that is not part of the model's
 pip install openai langchain tiktoken chromadb untructured
 
 # Create your own dataset under Directory , as I keep my custom data under directory - /mydata (directory name could be anything)
-if you have text data then use only "textloader", if you have pdf file, use pdfloader.
+if you have text data then use only "TextLoader", if you have pdf file, use pdfloader.
 
